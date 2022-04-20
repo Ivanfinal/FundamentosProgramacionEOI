@@ -140,3 +140,5 @@ https://www.youtube.com/watch?v=mXpZDQ2Au8U&ab_channel=EDteam
 https://hmong.es/wiki/Go_(programming_language)
 
 https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)
+
+Trabajo echo por Ivan del Alamo
