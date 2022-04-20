@@ -102,7 +102,7 @@ Teniendo en cuenta que el foco del desarrollo de software se centra en el cloud,
 
 ## SALARIO:
 
-![Salario](img/Salario_GO.png)
+![Salario](img/Salario_GO.PNG)
 
 ## SENSIBILIDAD A MAYUSCULAS
 
@@ -125,7 +125,7 @@ No tiene aritmética de punteros
 
 Alguna de las empresas que utilizan este lenguaje:
 
-![Empresas](img/Empresas_GO.png)
+![Empresas](img/Empresas_GO.PNG)
 
 ### Fuentes:
 https://go.dev/
@@ -142,3 +142,4 @@ https://hmong.es/wiki/Go_(programming_language)
 https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)
 
 Trabajo echo por Ivan del Alamo
+**No encontre informacion relacionada sobre la comunidad
