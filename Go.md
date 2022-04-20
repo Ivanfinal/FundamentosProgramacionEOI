@@ -111,7 +111,7 @@ Go es un lenguaje sensible a mayúsculas y minúsculas. Esto implica que las pal
 
 ## EJEMPLO CODIGO:
 
-![Ejemplo CODIGO](img/Ejemplo_GO.png)
+![Ejemplo CODIGO](img/Ejemplo_GO.PNG)
 
 ## OTROS DATOS DE INTERES:
 
